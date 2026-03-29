@@ -1,0 +1,10 @@
+[package]
+name = "thfrs"
+description = "rudimentary chess engine"
+version = "0.0.0"
+authors = ["Aspen Price <aspen@aspen-otr.com>"]
+edition = "2024"
+
+repository = "https://github.com/aspen-otr/chess"
+license = "Unlicense"
+publish = false
